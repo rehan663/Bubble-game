@@ -1,1 +1,1 @@
-# Bubble-game
+This is bubble game. In hit box a number is given to user if the user chooses the give number from the bubbles then he will get 10 score. If he selects wrong number 3 times then the game will be over.
